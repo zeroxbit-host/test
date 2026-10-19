@@ -8,7 +8,7 @@ Drafts for review. Nothing has been sent to GGSel yet. `payloads.json` holds the
 ### Title (EN)
 
 ```text
-Rapidgator Premium — 1 Day / 30 GB | Instant Delivery & Activation | Premium Debrid, 60+ Hosts
+Rapidgator Premium — 1 Day / 30 GB | Instant Delivery and Activation | Premium Debrid, 60+ Hosts
 ```
 
 ### Title (RU)
@@ -146,7 +146,7 @@ Any issue with the coupon or activation? Message us in the GGSel order chat — 
 ### Title (EN)
 
 ```text
-Rapidgator Premium — 15 Days | Instant Delivery & Activation | Premium Debrid, 60+ Hosts
+Rapidgator Premium — 15 Days | Instant Delivery and Activation | Premium Debrid, 60+ Hosts
 ```
 
 ### Title (RU)
@@ -282,7 +282,7 @@ Any issue with the coupon or activation? Message us in the GGSel order chat — 
 ### Title (EN)
 
 ```text
-Rapidgator Premium — 1 Month | Instant Delivery & Activation | Premium Debrid, 60+ Hosts
+Rapidgator Premium — 1 Month | Instant Delivery and Activation | Premium Debrid, 60+ Hosts
 ```
 
 ### Title (RU)
@@ -420,7 +420,7 @@ Any issue with the coupon or activation? Message us in the GGSel order chat — 
 ### Title (EN)
 
 ```text
-Rapidgator Premium — 3 Months | Instant Delivery & Activation | Premium Debrid, 60+ Hosts
+Rapidgator Premium — 3 Months | Instant Delivery and Activation | Premium Debrid, 60+ Hosts
 ```
 
 ### Title (RU)
