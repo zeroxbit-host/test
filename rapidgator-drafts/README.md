@@ -8,13 +8,13 @@ Drafts for review. Nothing has been sent to GGSel yet. `payloads.json` holds the
 ### Title (EN)
 
 ```text
-Rapidgator Premium — 1 Day / 30 GB | NinjaHacks Debrid, 60+ Hosts
+Rapidgator Premium — 1 Day / 30 GB | Premium Debrid, 60+ Hosts
 ```
 
 ### Title (RU)
 
 ```text
-Rapidgator Premium — 1 день / 30 ГБ | NinjaHacks Debrid, 60+ хостов
+Rapidgator Premium — 1 день / 30 ГБ | Premium Debrid, 60+ хостов
 ```
 
 ### Description (EN)
@@ -23,7 +23,7 @@ Rapidgator Premium — 1 день / 30 ГБ | NinjaHacks Debrid, 60+ хосто�
 🚀 RAPIDGATOR PREMIUM — 1 DAY
 Provided by NinjaHacks Premium Debrid
 
-Get Rapidgator Premium through a NinjaHacks membership — a premium debrid service that unlocks 60+ file hosts with one account.
+One premium debrid membership — Rapidgator plus 60+ file hosts in a single account.
 
 ━━━━━━━━━━━━━━━━━━
 📦 PLAN DETAILS
@@ -32,7 +32,7 @@ Get Rapidgator Premium through a NinjaHacks membership — a premium debrid serv
 ✅ Plan: 1 Day
 ✅ Traffic: 30 GB
 ✅ Hosts: Rapidgator + 60+ supported file hosts
-✅ Service: NinjaHacks Premium Debrid
+✅ Service: Premium Debrid
 ✅ Region: Worldwide
 ✅ Delivery: Coupon code in your GGSel order
 
@@ -68,7 +68,7 @@ One account. 60+ hosts. Zero hassle.
 🚀 RAPIDGATOR PREMIUM — 1 ДЕНЬ
 Предоставляется сервисом NinjaHacks Premium Debrid
 
-Получите Rapidgator Premium через подписку NinjaHacks — премиум-debrid сервис, который открывает доступ к 60+ файлообменникам в одном аккаунте.
+Одна премиум-debrid подписка — Rapidgator и ещё 60+ файлообменников в одном аккаунте.
 
 ━━━━━━━━━━━━━━━━━━
 📦 ДЕТАЛИ ТАРИФА
@@ -77,7 +77,7 @@ One account. 60+ hosts. Zero hassle.
 ✅ Тариф: 1 день
 ✅ Трафик: 30 ГБ
 ✅ Хосты: Rapidgator + 60+ поддерживаемых файлообменников
-✅ Сервис: NinjaHacks Premium Debrid
+✅ Сервис: Premium Debrid
 ✅ Регион: весь мир
 ✅ Доставка: купон-код в заказе GGSel
 
@@ -146,13 +146,13 @@ Any issue with the coupon or activation? Message us in the GGSel order chat — 
 ### Title (EN)
 
 ```text
-Rapidgator Premium — 15 Days | NinjaHacks Debrid, 60+ Hosts
+Rapidgator Premium — 15 Days | Premium Debrid, 60+ Hosts
 ```
 
 ### Title (RU)
 
 ```text
-Rapidgator Premium — 15 дней | NinjaHacks Debrid, 60+ хостов
+Rapidgator Premium — 15 дней | Premium Debrid, 60+ хостов
 ```
 
 ### Description (EN)
@@ -161,7 +161,7 @@ Rapidgator Premium — 15 дней | NinjaHacks Debrid, 60+ хостов
 🚀 RAPIDGATOR PREMIUM — 15 DAYS
 Provided by NinjaHacks Premium Debrid
 
-Get Rapidgator Premium through a NinjaHacks membership — a premium debrid service that unlocks 60+ file hosts with one account.
+One premium debrid membership — Rapidgator plus 60+ file hosts in a single account.
 
 ━━━━━━━━━━━━━━━━━━
 📦 PLAN DETAILS
@@ -169,7 +169,7 @@ Get Rapidgator Premium through a NinjaHacks membership — a premium debrid serv
 
 ✅ Plan: 15 Days
 ✅ Hosts: Rapidgator + 60+ supported file hosts
-✅ Service: NinjaHacks Premium Debrid
+✅ Service: Premium Debrid
 ✅ Region: Worldwide
 ✅ Delivery: Coupon code in your GGSel order
 
@@ -205,7 +205,7 @@ One account. 60+ hosts. Zero hassle.
 🚀 RAPIDGATOR PREMIUM — 15 ДНЕЙ
 Предоставляется сервисом NinjaHacks Premium Debrid
 
-Получите Rapidgator Premium через подписку NinjaHacks — премиум-debrid сервис, который открывает доступ к 60+ файлообменникам в одном аккаунте.
+Одна премиум-debrid подписка — Rapidgator и ещё 60+ файлообменников в одном аккаунте.
 
 ━━━━━━━━━━━━━━━━━━
 📦 ДЕТАЛИ ТАРИФА
@@ -213,7 +213,7 @@ One account. 60+ hosts. Zero hassle.
 
 ✅ Тариф: 15 дней
 ✅ Хосты: Rapidgator + 60+ поддерживаемых файлообменников
-✅ Сервис: NinjaHacks Premium Debrid
+✅ Сервис: Premium Debrid
 ✅ Регион: весь мир
 ✅ Доставка: купон-код в заказе GGSel
 
@@ -282,13 +282,13 @@ Any issue with the coupon or activation? Message us in the GGSel order chat — 
 ### Title (EN)
 
 ```text
-Rapidgator Premium — 1 Month | NinjaHacks Debrid, 60+ Hosts
+Rapidgator Premium — 1 Month | Premium Debrid, 60+ Hosts
 ```
 
 ### Title (RU)
 
 ```text
-Rapidgator Premium — 1 месяц | NinjaHacks Debrid, 60+ хостов
+Rapidgator Premium — 1 месяц | Premium Debrid, 60+ хостов
 ```
 
 ### Description (EN)
@@ -297,7 +297,7 @@ Rapidgator Premium — 1 месяц | NinjaHacks Debrid, 60+ хостов
 🚀 RAPIDGATOR PREMIUM — 1 MONTH
 Provided by NinjaHacks Premium Debrid
 
-Get Rapidgator Premium through a NinjaHacks membership — a premium debrid service that unlocks 60+ file hosts with one account.
+One premium debrid membership — Rapidgator plus 60+ file hosts in a single account.
 
 ━━━━━━━━━━━━━━━━━━
 📦 PLAN DETAILS
@@ -306,7 +306,7 @@ Get Rapidgator Premium through a NinjaHacks membership — a premium debrid serv
 ✅ Plan: 1 Month
 ✅ Traffic: 1 TB+
 ✅ Hosts: Rapidgator + 60+ supported file hosts
-✅ Service: NinjaHacks Premium Debrid
+✅ Service: Premium Debrid
 ✅ Region: Worldwide
 ✅ Delivery: Coupon code in your GGSel order
 
@@ -342,7 +342,7 @@ One account. 60+ hosts. Zero hassle.
 🚀 RAPIDGATOR PREMIUM — 1 МЕСЯЦ
 Предоставляется сервисом NinjaHacks Premium Debrid
 
-Получите Rapidgator Premium через подписку NinjaHacks — премиум-debrid сервис, который открывает доступ к 60+ файлообменникам в одном аккаунте.
+Одна премиум-debrid подписка — Rapidgator и ещё 60+ файлообменников в одном аккаунте.
 
 ━━━━━━━━━━━━━━━━━━
 📦 ДЕТАЛИ ТАРИФА
@@ -351,7 +351,7 @@ One account. 60+ hosts. Zero hassle.
 ✅ Тариф: 1 месяц
 ✅ Трафик: 1 ТБ+
 ✅ Хосты: Rapidgator + 60+ поддерживаемых файлообменников
-✅ Сервис: NinjaHacks Premium Debrid
+✅ Сервис: Premium Debrid
 ✅ Регион: весь мир
 ✅ Доставка: купон-код в заказе GGSel
 
@@ -420,13 +420,13 @@ Any issue with the coupon or activation? Message us in the GGSel order chat — 
 ### Title (EN)
 
 ```text
-Rapidgator Premium — 3 Months | NinjaHacks Debrid, 60+ Hosts
+Rapidgator Premium — 3 Months | Premium Debrid, 60+ Hosts
 ```
 
 ### Title (RU)
 
 ```text
-Rapidgator Premium — 3 месяца | NinjaHacks Debrid, 60+ хостов
+Rapidgator Premium — 3 месяца | Premium Debrid, 60+ хостов
 ```
 
 ### Description (EN)
@@ -435,7 +435,7 @@ Rapidgator Premium — 3 месяца | NinjaHacks Debrid, 60+ хостов
 🚀 RAPIDGATOR PREMIUM — 3 MONTHS
 Provided by NinjaHacks Premium Debrid
 
-Get Rapidgator Premium through a NinjaHacks membership — a premium debrid service that unlocks 60+ file hosts with one account.
+One premium debrid membership — Rapidgator plus 60+ file hosts in a single account.
 
 ━━━━━━━━━━━━━━━━━━
 📦 PLAN DETAILS
@@ -443,7 +443,7 @@ Get Rapidgator Premium through a NinjaHacks membership — a premium debrid serv
 
 ✅ Plan: 3 Months
 ✅ Hosts: Rapidgator + 60+ supported file hosts
-✅ Service: NinjaHacks Premium Debrid
+✅ Service: Premium Debrid
 ✅ Region: Worldwide
 ✅ Delivery: Coupon code in your GGSel order
 
@@ -479,7 +479,7 @@ One account. 60+ hosts. Zero hassle.
 🚀 RAPIDGATOR PREMIUM — 3 МЕСЯЦА
 Предоставляется сервисом NinjaHacks Premium Debrid
 
-Получите Rapidgator Premium через подписку NinjaHacks — премиум-debrid сервис, который открывает доступ к 60+ файлообменникам в одном аккаунте.
+Одна премиум-debrid подписка — Rapidgator и ещё 60+ файлообменников в одном аккаунте.
 
 ━━━━━━━━━━━━━━━━━━
 📦 ДЕТАЛИ ТАРИФА
@@ -487,7 +487,7 @@ One account. 60+ hosts. Zero hassle.
 
 ✅ Тариф: 3 месяца
 ✅ Хосты: Rapidgator + 60+ поддерживаемых файлообменников
-✅ Сервис: NinjaHacks Premium Debrid
+✅ Сервис: Premium Debrid
 ✅ Регион: весь мир
 ✅ Доставка: купон-код в заказе GGSel
 
