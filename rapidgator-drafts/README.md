@@ -8,13 +8,13 @@ Drafts for review. Nothing has been sent to GGSel yet. `payloads.json` holds the
 ### Title (EN)
 
 ```text
-Rapidgator Premium — 1 Day / 30 GB | Premium Debrid, 60+ Hosts
+Rapidgator Premium — 1 Day / 30 GB | Instant Delivery & Activation | Premium Debrid, 60+ Hosts
 ```
 
 ### Title (RU)
 
 ```text
-Rapidgator Premium — 1 день / 30 ГБ | Premium Debrid, 60+ хостов
+Rapidgator Premium — 1 день / 30 ГБ | Мгновенная доставка и активация | Premium Debrid, 60+ хостов
 ```
 
 ### Description (EN)
@@ -33,7 +33,8 @@ One premium debrid membership — Rapidgator plus 60+ file hosts in a single acc
 ✅ Hosts: Rapidgator + 60+ supported file hosts
 ✅ Service: Ninja Hacks Premium Debrid
 ✅ Region: Worldwide
-✅ Delivery: Coupon code in your GGSel order
+✅ Delivery: Instant — coupon code in your GGSel order
+✅ Activation: Instant
 
 ━━━━━━━━━━━━━━━━━━
 ⚡ WHAT YOU GET
@@ -77,7 +78,8 @@ One account. 60+ hosts. Zero hassle.
 ✅ Хосты: Rapidgator + 60+ поддерживаемых файлообменников
 ✅ Сервис: Ninja Hacks Premium Debrid
 ✅ Регион: весь мир
-✅ Доставка: купон-код в заказе GGSel
+✅ Доставка: мгновенная — купон-код в заказе GGSel
+✅ Активация: мгновенная
 
 ━━━━━━━━━━━━━━━━━━
 ⚡ ЧТО ВЫ ПОЛУЧАЕТЕ
@@ -144,13 +146,13 @@ Any issue with the coupon or activation? Message us in the GGSel order chat — 
 ### Title (EN)
 
 ```text
-Rapidgator Premium — 15 Days | Premium Debrid, 60+ Hosts
+Rapidgator Premium — 15 Days | Instant Delivery & Activation | Premium Debrid, 60+ Hosts
 ```
 
 ### Title (RU)
 
 ```text
-Rapidgator Premium — 15 дней | Premium Debrid, 60+ хостов
+Rapidgator Premium — 15 дней | Мгновенная доставка и активация | Premium Debrid, 60+ хостов
 ```
 
 ### Description (EN)
@@ -168,7 +170,8 @@ One premium debrid membership — Rapidgator plus 60+ file hosts in a single acc
 ✅ Hosts: Rapidgator + 60+ supported file hosts
 ✅ Service: Ninja Hacks Premium Debrid
 ✅ Region: Worldwide
-✅ Delivery: Coupon code in your GGSel order
+✅ Delivery: Instant — coupon code in your GGSel order
+✅ Activation: Instant
 
 ━━━━━━━━━━━━━━━━━━
 ⚡ WHAT YOU GET
@@ -211,7 +214,8 @@ One account. 60+ hosts. Zero hassle.
 ✅ Хосты: Rapidgator + 60+ поддерживаемых файлообменников
 ✅ Сервис: Ninja Hacks Premium Debrid
 ✅ Регион: весь мир
-✅ Доставка: купон-код в заказе GGSel
+✅ Доставка: мгновенная — купон-код в заказе GGSel
+✅ Активация: мгновенная
 
 ━━━━━━━━━━━━━━━━━━
 ⚡ ЧТО ВЫ ПОЛУЧАЕТЕ
@@ -278,13 +282,13 @@ Any issue with the coupon or activation? Message us in the GGSel order chat — 
 ### Title (EN)
 
 ```text
-Rapidgator Premium — 1 Month | Premium Debrid, 60+ Hosts
+Rapidgator Premium — 1 Month | Instant Delivery & Activation | Premium Debrid, 60+ Hosts
 ```
 
 ### Title (RU)
 
 ```text
-Rapidgator Premium — 1 месяц | Premium Debrid, 60+ хостов
+Rapidgator Premium — 1 месяц | Мгновенная доставка и активация | Premium Debrid, 60+ хостов
 ```
 
 ### Description (EN)
@@ -303,7 +307,8 @@ One premium debrid membership — Rapidgator plus 60+ file hosts in a single acc
 ✅ Hosts: Rapidgator + 60+ supported file hosts
 ✅ Service: Ninja Hacks Premium Debrid
 ✅ Region: Worldwide
-✅ Delivery: Coupon code in your GGSel order
+✅ Delivery: Instant — coupon code in your GGSel order
+✅ Activation: Instant
 
 ━━━━━━━━━━━━━━━━━━
 ⚡ WHAT YOU GET
@@ -347,7 +352,8 @@ One account. 60+ hosts. Zero hassle.
 ✅ Хосты: Rapidgator + 60+ поддерживаемых файлообменников
 ✅ Сервис: Ninja Hacks Premium Debrid
 ✅ Регион: весь мир
-✅ Доставка: купон-код в заказе GGSel
+✅ Доставка: мгновенная — купон-код в заказе GGSel
+✅ Активация: мгновенная
 
 ━━━━━━━━━━━━━━━━━━
 ⚡ ЧТО ВЫ ПОЛУЧАЕТЕ
@@ -414,13 +420,13 @@ Any issue with the coupon or activation? Message us in the GGSel order chat — 
 ### Title (EN)
 
 ```text
-Rapidgator Premium — 3 Months | Premium Debrid, 60+ Hosts
+Rapidgator Premium — 3 Months | Instant Delivery & Activation | Premium Debrid, 60+ Hosts
 ```
 
 ### Title (RU)
 
 ```text
-Rapidgator Premium — 3 месяца | Premium Debrid, 60+ хостов
+Rapidgator Premium — 3 месяца | Мгновенная доставка и активация | Premium Debrid, 60+ хостов
 ```
 
 ### Description (EN)
@@ -438,7 +444,8 @@ One premium debrid membership — Rapidgator plus 60+ file hosts in a single acc
 ✅ Hosts: Rapidgator + 60+ supported file hosts
 ✅ Service: Ninja Hacks Premium Debrid
 ✅ Region: Worldwide
-✅ Delivery: Coupon code in your GGSel order
+✅ Delivery: Instant — coupon code in your GGSel order
+✅ Activation: Instant
 
 ━━━━━━━━━━━━━━━━━━
 ⚡ WHAT YOU GET
@@ -481,7 +488,8 @@ One account. 60+ hosts. Zero hassle.
 ✅ Хосты: Rapidgator + 60+ поддерживаемых файлообменников
 ✅ Сервис: Ninja Hacks Premium Debrid
 ✅ Регион: весь мир
-✅ Доставка: купон-код в заказе GGSel
+✅ Доставка: мгновенная — купон-код в заказе GGSel
+✅ Активация: мгновенная
 
 ━━━━━━━━━━━━━━━━━━
 ⚡ ЧТО ВЫ ПОЛУЧАЕТЕ
