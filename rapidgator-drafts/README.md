@@ -8,13 +8,13 @@ Drafts for review. Nothing has been sent to GGSel yet. `payloads.json` holds the
 ### Title (EN)
 
 ```text
-Rapidgator Premium — 1 Day / 30 GB | Instant Delivery and Activation | Premium Debrid, 60+ Hosts
+Rapidgator Premium — 1 Day / 30 GB | Instant Delivery/Activation | 60+ Hosts
 ```
 
 ### Title (RU)
 
 ```text
-Rapidgator Premium — 1 день / 30 ГБ | Мгновенная доставка и активация | Premium Debrid, 60+ хостов
+Rapidgator Premium — 1 день / 30 ГБ | Мгновенная доставка/активация | 60+ хостов
 ```
 
 ### Description (EN)
@@ -146,13 +146,13 @@ Any issue with the coupon or activation? Message us in the GGSel order chat — 
 ### Title (EN)
 
 ```text
-Rapidgator Premium — 15 Days | Instant Delivery and Activation | Premium Debrid, 60+ Hosts
+Rapidgator Premium — 15 Days | Instant Delivery/Activation | 60+ Hosts
 ```
 
 ### Title (RU)
 
 ```text
-Rapidgator Premium — 15 дней | Мгновенная доставка и активация | Premium Debrid, 60+ хостов
+Rapidgator Premium — 15 дней | Мгновенная доставка/активация | 60+ хостов
 ```
 
 ### Description (EN)
@@ -282,13 +282,13 @@ Any issue with the coupon or activation? Message us in the GGSel order chat — 
 ### Title (EN)
 
 ```text
-Rapidgator Premium — 1 Month | Instant Delivery and Activation | Premium Debrid, 60+ Hosts
+Rapidgator Premium — 1 Month | Instant Delivery/Activation | 60+ Hosts
 ```
 
 ### Title (RU)
 
 ```text
-Rapidgator Premium — 1 месяц | Мгновенная доставка и активация | Premium Debrid, 60+ хостов
+Rapidgator Premium — 1 месяц | Мгновенная доставка/активация | 60+ хостов
 ```
 
 ### Description (EN)
@@ -420,13 +420,13 @@ Any issue with the coupon or activation? Message us in the GGSel order chat — 
 ### Title (EN)
 
 ```text
-Rapidgator Premium — 3 Months | Instant Delivery and Activation | Premium Debrid, 60+ Hosts
+Rapidgator Premium — 3 Months | Instant Delivery/Activation | 60+ Hosts
 ```
 
 ### Title (RU)
 
 ```text
-Rapidgator Premium — 3 месяца | Мгновенная доставка и активация | Premium Debrid, 60+ хостов
+Rapidgator Premium — 3 месяца | Мгновенная доставка/активация | 60+ хостов
 ```
 
 ### Description (EN)
