@@ -21,7 +21,6 @@ Rapidgator Premium — 1 день / 30 ГБ | Premium Debrid, 60+ хостов
 
 ```text
 🚀 RAPIDGATOR PREMIUM — 1 DAY
-Provided by NinjaHacks Premium Debrid
 
 One premium debrid membership — Rapidgator plus 60+ file hosts in a single account.
 
@@ -32,7 +31,7 @@ One premium debrid membership — Rapidgator plus 60+ file hosts in a single acc
 ✅ Plan: 1 Day
 ✅ Traffic: 30 GB
 ✅ Hosts: Rapidgator + 60+ supported file hosts
-✅ Service: Premium Debrid
+✅ Service: Ninja Hacks Premium Debrid
 ✅ Region: Worldwide
 ✅ Delivery: Coupon code in your GGSel order
 
@@ -66,7 +65,6 @@ One account. 60+ hosts. Zero hassle.
 
 ```text
 🚀 RAPIDGATOR PREMIUM — 1 ДЕНЬ
-Предоставляется сервисом NinjaHacks Premium Debrid
 
 Одна премиум-debrid подписка — Rapidgator и ещё 60+ файлообменников в одном аккаунте.
 
@@ -77,7 +75,7 @@ One account. 60+ hosts. Zero hassle.
 ✅ Тариф: 1 день
 ✅ Трафик: 30 ГБ
 ✅ Хосты: Rapidgator + 60+ поддерживаемых файлообменников
-✅ Сервис: Premium Debrid
+✅ Сервис: Ninja Hacks Premium Debrid
 ✅ Регион: весь мир
 ✅ Доставка: купон-код в заказе GGSel
 
@@ -159,7 +157,6 @@ Rapidgator Premium — 15 дней | Premium Debrid, 60+ хостов
 
 ```text
 🚀 RAPIDGATOR PREMIUM — 15 DAYS
-Provided by NinjaHacks Premium Debrid
 
 One premium debrid membership — Rapidgator plus 60+ file hosts in a single account.
 
@@ -169,7 +166,7 @@ One premium debrid membership — Rapidgator plus 60+ file hosts in a single acc
 
 ✅ Plan: 15 Days
 ✅ Hosts: Rapidgator + 60+ supported file hosts
-✅ Service: Premium Debrid
+✅ Service: Ninja Hacks Premium Debrid
 ✅ Region: Worldwide
 ✅ Delivery: Coupon code in your GGSel order
 
@@ -203,7 +200,6 @@ One account. 60+ hosts. Zero hassle.
 
 ```text
 🚀 RAPIDGATOR PREMIUM — 15 ДНЕЙ
-Предоставляется сервисом NinjaHacks Premium Debrid
 
 Одна премиум-debrid подписка — Rapidgator и ещё 60+ файлообменников в одном аккаунте.
 
@@ -213,7 +209,7 @@ One account. 60+ hosts. Zero hassle.
 
 ✅ Тариф: 15 дней
 ✅ Хосты: Rapidgator + 60+ поддерживаемых файлообменников
-✅ Сервис: Premium Debrid
+✅ Сервис: Ninja Hacks Premium Debrid
 ✅ Регион: весь мир
 ✅ Доставка: купон-код в заказе GGSel
 
@@ -295,7 +291,6 @@ Rapidgator Premium — 1 месяц | Premium Debrid, 60+ хостов
 
 ```text
 🚀 RAPIDGATOR PREMIUM — 1 MONTH
-Provided by NinjaHacks Premium Debrid
 
 One premium debrid membership — Rapidgator plus 60+ file hosts in a single account.
 
@@ -306,7 +301,7 @@ One premium debrid membership — Rapidgator plus 60+ file hosts in a single acc
 ✅ Plan: 1 Month
 ✅ Traffic: 1 TB+
 ✅ Hosts: Rapidgator + 60+ supported file hosts
-✅ Service: Premium Debrid
+✅ Service: Ninja Hacks Premium Debrid
 ✅ Region: Worldwide
 ✅ Delivery: Coupon code in your GGSel order
 
@@ -340,7 +335,6 @@ One account. 60+ hosts. Zero hassle.
 
 ```text
 🚀 RAPIDGATOR PREMIUM — 1 МЕСЯЦ
-Предоставляется сервисом NinjaHacks Premium Debrid
 
 Одна премиум-debrid подписка — Rapidgator и ещё 60+ файлообменников в одном аккаунте.
 
@@ -351,7 +345,7 @@ One account. 60+ hosts. Zero hassle.
 ✅ Тариф: 1 месяц
 ✅ Трафик: 1 ТБ+
 ✅ Хосты: Rapidgator + 60+ поддерживаемых файлообменников
-✅ Сервис: Premium Debrid
+✅ Сервис: Ninja Hacks Premium Debrid
 ✅ Регион: весь мир
 ✅ Доставка: купон-код в заказе GGSel
 
@@ -433,7 +427,6 @@ Rapidgator Premium — 3 месяца | Premium Debrid, 60+ хостов
 
 ```text
 🚀 RAPIDGATOR PREMIUM — 3 MONTHS
-Provided by NinjaHacks Premium Debrid
 
 One premium debrid membership — Rapidgator plus 60+ file hosts in a single account.
 
@@ -443,7 +436,7 @@ One premium debrid membership — Rapidgator plus 60+ file hosts in a single acc
 
 ✅ Plan: 3 Months
 ✅ Hosts: Rapidgator + 60+ supported file hosts
-✅ Service: Premium Debrid
+✅ Service: Ninja Hacks Premium Debrid
 ✅ Region: Worldwide
 ✅ Delivery: Coupon code in your GGSel order
 
@@ -477,7 +470,6 @@ One account. 60+ hosts. Zero hassle.
 
 ```text
 🚀 RAPIDGATOR PREMIUM — 3 МЕСЯЦА
-Предоставляется сервисом NinjaHacks Premium Debrid
 
 Одна премиум-debrid подписка — Rapidgator и ещё 60+ файлообменников в одном аккаунте.
 
@@ -487,7 +479,7 @@ One account. 60+ hosts. Zero hassle.
 
 ✅ Тариф: 3 месяца
 ✅ Хосты: Rapidgator + 60+ поддерживаемых файлообменников
-✅ Сервис: Premium Debrid
+✅ Сервис: Ninja Hacks Premium Debrid
 ✅ Регион: весь мир
 ✅ Доставка: купон-код в заказе GGSel
 
