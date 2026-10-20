@@ -6,22 +6,32 @@ Not created on GGSel yet. `payloads.json` holds the text for `POST /api_sellers/
 
 ## Claude Pro — 2399 RUB
 
+### Duration option (radio button)
+
+| Variant | Price modifier | Buyer pays |
+|---|---|---|
+| 15 Days / 15 дней | −1200 RUB | 1199 RUB |
+| 1 Month / 1 месяц | +0 RUB (default) | 2399 RUB |
+| 3 Months / 3 месяца | +2399 RUB | 4798 RUB |
+| 6 Months / 6 месяцев | +11995 RUB | 14394 RUB |
+| 12 Months / 12 месяцев | +26389 RUB | 28788 RUB |
+
 ### Title (EN)
 
 ```text
-Claude Pro — 1 Month | On Your Account
+Claude Pro — 15 Days to 12 Months | On Your Account
 ```
 
 ### Title (RU)
 
 ```text
-Claude Pro — 1 месяц | На ваш аккаунт
+Claude Pro — от 15 дней до 12 месяцев | На ваш аккаунт
 ```
 
 ### Description (EN)
 
 ```text
-🤖 CLAUDE PRO — 1 MONTH
+🤖 CLAUDE PRO — 15 DAYS TO 12 MONTHS
 
 Upgrade your own Claude account to Pro — more usage, the latest models and Pro-only features.
 
@@ -29,7 +39,7 @@ Upgrade your own Claude account to Pro — more usage, the latest models and Pro
 📦 PLAN DETAILS
 ━━━━━━━━━━━━━━━━━━
 
-✅ Plan: Claude Pro — 1 Month
+✅ Plan: Claude Pro — 15 Days, 1, 3, 6 or 12 Months (choose before payment)
 ✅ Account: Your own Claude account
 ✅ Region: Worldwide
 ✅ Activation: Via the GGSel order chat
@@ -42,13 +52,13 @@ Upgrade your own Claude account to Pro — more usage, the latest models and Pro
 • Access to the latest Claude models
 • Projects to organise chats and files
 • Claude Code, Research and other Pro features
-• Full Pro access for the whole month
+• Full Pro access for the whole chosen period
 
 ━━━━━━━━━━━━━━━━━━
 🛒 HOW IT WORKS
 ━━━━━━━━━━━━━━━━━━
 
-1️⃣ Place your order
+1️⃣ Choose the duration and place your order
 2️⃣ Send your Claude account email in the GGSel order chat
 3️⃣ Enjoy Claude Pro
 
@@ -62,7 +72,7 @@ Any issue — message us in the GGSel order chat and we will sort it out.
 ### Description (RU)
 
 ```text
-🤖 CLAUDE PRO — 1 МЕСЯЦ
+🤖 CLAUDE PRO — ОТ 15 ДНЕЙ ДО 12 МЕСЯЦЕВ
 
 Подключите Pro на ваш собственный аккаунт Claude — больше лимитов, новейшие модели и функции Pro.
 
@@ -70,7 +80,7 @@ Any issue — message us in the GGSel order chat and we will sort it out.
 📦 ДЕТАЛИ ТАРИФА
 ━━━━━━━━━━━━━━━━━━
 
-✅ Тариф: Claude Pro — 1 месяц
+✅ Тариф: Claude Pro — 15 дней, 1, 3, 6 или 12 месяцев (выберите перед оплатой)
 ✅ Аккаунт: ваш собственный аккаунт Claude
 ✅ Регион: весь мир
 ✅ Активация: через чат заказа GGSel
@@ -83,13 +93,13 @@ Any issue — message us in the GGSel order chat and we will sort it out.
 • Доступ к новейшим моделям Claude
 • Проекты для организации чатов и файлов
 • Claude Code, Research и другие функции Pro
-• Полный доступ Pro на весь месяц
+• Полный доступ Pro на весь выбранный срок
 
 ━━━━━━━━━━━━━━━━━━
 🛒 КАК ЭТО РАБОТАЕТ
 ━━━━━━━━━━━━━━━━━━
 
-1️⃣ Оформите заказ
+1️⃣ Выберите срок и оформите заказ
 2️⃣ Отправьте email аккаунта Claude в чат заказа GGSel
 3️⃣ Пользуйтесь Claude Pro
 
