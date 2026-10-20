@@ -1,6 +1,11 @@
 # New products — drafts
 
-Not created on GGSel yet. `payloads.json` holds the text for `POST /api_sellers/v2/offers` (category still to be added).
+Created on GGSel:
+
+- Claude Pro — [103609365](https://ggsel.net/catalog/product/103609365), category Claude AI › Pro › Покупка без входа
+- Duolingo Super — [103609357](https://ggsel.net/catalog/product/103609357), category DUOLINGO › Покупка на ваш аккаунт
+
+Covers use the official Claude (claude.com) and Duolingo (duolingo.com) share images.
 
 ---
 
