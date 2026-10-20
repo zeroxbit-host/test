@@ -9,13 +9,13 @@ Not created on GGSel yet. `payloads.json` holds the text for `POST /api_sellers/
 ### Title (EN)
 
 ```text
-Claude Pro — 1 Month | Instant Delivery/Activation | On Your Account
+Claude Pro — 1 Month | On Your Account
 ```
 
 ### Title (RU)
 
 ```text
-Claude Pro — 1 месяц | Мгновенная доставка/активация | На ваш аккаунт
+Claude Pro — 1 месяц | На ваш аккаунт
 ```
 
 ### Description (EN)
@@ -32,8 +32,7 @@ Upgrade your own Claude account to Pro — more usage, the latest models and Pro
 ✅ Plan: Claude Pro — 1 Month
 ✅ Account: Your own Claude account
 ✅ Region: Worldwide
-✅ Delivery: Instant
-✅ Activation: Instant
+✅ Activation: Via the GGSel order chat
 
 ━━━━━━━━━━━━━━━━━━
 ⚡ WHAT YOU GET
@@ -74,8 +73,7 @@ Any issue — message us in the GGSel order chat and we will sort it out.
 ✅ Тариф: Claude Pro — 1 месяц
 ✅ Аккаунт: ваш собственный аккаунт Claude
 ✅ Регион: весь мир
-✅ Доставка: мгновенная
-✅ Активация: мгновенная
+✅ Активация: через чат заказа GGSel
 
 ━━━━━━━━━━━━━━━━━━
 ⚡ ЧТО ВЫ ПОЛУЧАЕТЕ
@@ -141,13 +139,13 @@ Any issue with activation? Message us in the GGSel order chat — we will help y
 ### Title (EN)
 
 ```text
-Duolingo Super — 1 Month | Instant Delivery/Activation | On Your Account
+Duolingo Super — 1 Month | On Your Account
 ```
 
 ### Title (RU)
 
 ```text
-Duolingo Super — 1 месяц | Мгновенная доставка/активация | На ваш аккаунт
+Duolingo Super — 1 месяц | На ваш аккаунт
 ```
 
 ### Description (EN)
@@ -165,8 +163,7 @@ Learn without limits on your own Duolingo account — no ads, unlimited hearts a
 ✅ Account: Your own Duolingo account
 ✅ Progress: Your streak and progress stay with you
 ✅ Region: Worldwide
-✅ Delivery: Instant
-✅ Activation: Instant
+✅ Activation: Via the GGSel order chat
 
 ━━━━━━━━━━━━━━━━━━
 ⚡ WHAT YOU GET
@@ -208,8 +205,7 @@ Any issue — message us in the GGSel order chat and we will sort it out.
 ✅ Аккаунт: ваш собственный аккаунт Duolingo
 ✅ Прогресс: ударный режим и прогресс сохраняются
 ✅ Регион: весь мир
-✅ Доставка: мгновенная
-✅ Активация: мгновенная
+✅ Активация: через чат заказа GGSel
 
 ━━━━━━━━━━━━━━━━━━
 ⚡ ЧТО ВЫ ПОЛУЧАЕТЕ
